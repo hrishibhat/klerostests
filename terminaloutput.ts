@@ -18,6 +18,7 @@ web3_clientVersion
   Transaction:         0xfb6a31f8d6474dd2037c68796f1b6ae1f2f406050be3df338b54fad661d64221
   From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
   Value:               0 ETH
+  
   Gas used:            573063 of 573063
   Block #3:            0x257f46cb3411966aa9aa7d71a68b3127f82754f6a4c220174e168c07a51711a8
   Contract deployment: PNK
